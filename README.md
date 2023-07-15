@@ -1,1 +1,1 @@
-# Kino-Liga.github.io
+# kino-liga.github.io
